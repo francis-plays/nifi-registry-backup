@@ -138,8 +138,8 @@
           "type" : "OUTPUT_PORT"
         } ],
         "position" : {
-          "x" : 2185.197016113495,
-          "y" : -756.0448154479607
+          "x" : 1944.0,
+          "y" : -784.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -166,6 +166,7 @@
             "y" : 240.0
           },
           "properties" : {
+            "Counter Name" : "datalakerecordsprocessed",
             "Delta" : "1"
           },
           "propertyDescriptors" : {

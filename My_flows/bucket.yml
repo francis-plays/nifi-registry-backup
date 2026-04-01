@@ -11,9 +11,9 @@ flows:
     flowName: Query Staging
     flowDesc: |
       initial version - validates staging count
-  c070bc9e-9b5c-42a0-b234-bf109fcac1d8: {ver: 1, file: ReadDataLake.snapshot, comments: ' Initial
-      version - reads data lake', author: anonymous, created: 1775010571285, flowName: ReadDataLake,
-    flowDesc: Reads JSON files from data lake and extracts attributes}
+  c070bc9e-9b5c-42a0-b234-bf109fcac1d8: {ver: 2, file: ReadDataLake.snapshot, comments: '',
+    author: anonymous, created: 1775015062747, flowName: ReadDataLake, flowDesc: Reads
+      JSON files from data lake and extracts attributes}
   4356f4b3-2b25-42e1-9b97-82b9e2ab5577: {ver: 1, file: Insert_staging.snapshot, comments: '',
     author: anonymous, created: 1775015055059, flowName: Insert staging, flowDesc: ''}
   befbc921-c817-460e-bb0e-528e9ab92ae5:
