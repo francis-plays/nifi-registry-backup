@@ -1,0 +1,12 @@
+flows:
+  befbc921-c817-460e-bb0e-528e9ab92ae5:
+    ver: 3
+    file: SeeClickFix_311_Pipeline.snapshot
+    comments: |
+      Testing GitHub backup integration
+    author: anonymous
+    created: 1775005705556
+    flowName: SeeClickFix 311 Pipeline
+    flowDesc: ' Extracts civic issues from SeeClickFix API and loads into Elasticsearch'
+layoutVer: 1
+bucketId: 07a433db-1337-4cc2-9050-1d840fd25fd7
