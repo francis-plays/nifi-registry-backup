@@ -1,4 +1,7 @@
 flows:
+  6d38251e-3440-4889-8819-1488be9eb058: {ver: 1, file: InsertWarehouse.snapshot, comments: '',
+    author: anonymous, created: 1775015033294, flowName: InsertWarehouse, flowDesc: Initial
+      version - moves staging to warehouse}
   32cb3950-e287-4d3e-a797-6ae8e4118724:
     ver: 1
     file: Query_Staging.snapshot
