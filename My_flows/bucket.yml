@@ -1,4 +1,13 @@
 flows:
+  32cb3950-e287-4d3e-a797-6ae8e4118724:
+    ver: 1
+    file: Query_Staging.snapshot
+    comments: ''
+    author: anonymous
+    created: 1775014246810
+    flowName: Query Staging
+    flowDesc: |
+      initial version - validates staging count
   c070bc9e-9b5c-42a0-b234-bf109fcac1d8: {ver: 1, file: ReadDataLake.snapshot, comments: ' Initial
       version - reads data lake', author: anonymous, created: 1775010571285, flowName: ReadDataLake,
     flowDesc: Reads JSON files from data lake and extracts attributes}
